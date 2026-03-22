@@ -1,0 +1,22 @@
+#cache python	
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+data/
+*.wav
+*.flac
+*.mp3
+
+
+# Log
+*.log
+output_*.log
+error_*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

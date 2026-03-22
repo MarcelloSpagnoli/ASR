@@ -1,0 +1,9 @@
+# report/.gitignore
+*.aux
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.log
+*.pdf
